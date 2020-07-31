@@ -92,8 +92,4 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 
-//https://pub.dev/packages/fluid_bottom_nav_bar/example
-//https://pub.dev/packages/persistent_bottom_nav_bar#custom-navigation-bar-styling
-//https://github.com/pedromassango/bottom_navy_bar/blob/master/example/lib/main.dart
-//https://pub.dev/packages/bottom_navy_bar/install
-//https://www.youtube.com/watch?v=jJPSKEEiN-E
+
